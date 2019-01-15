@@ -1,4 +1,4 @@
-# Hello, Good Evening, and Welcome
+# Hello
 Welcome to the innards of [my website](https://yashk2000.github.io/).
 
 ## Installation
