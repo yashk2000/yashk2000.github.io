@@ -6,7 +6,7 @@ If you want to run this site locally:
 
 Open Terminal(CTRL+ALT+T) and
 - `git clone https://github.com/yashk2000/yashk2000.github.io` to clone it somewhere
-- `cd vchrombie.github.io/` to navigate to the folder
+- `cd yashk2000.github.io/` to navigate to the folder
 - `python3 -m http.server`
 - Open browser and navigate to `http://localhost:8000/`
 - Party. You can see the website running.
