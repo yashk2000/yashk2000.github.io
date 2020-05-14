@@ -40820,7 +40820,7 @@ $0:function(){return this.a.d=this.b},
 $S:22}
 K.tJ.prototype={
 F:function(a){var t=null,s=u.E
-s=T.nn(H.b([new K.uo(U.hw("assets/avatar.jpg",t,t).c,100,t),new T.bL(t,20,t,t),L.ce("Yash Khare",t,t,4),new T.bL(t,20,t,t),L.ce("Member and mentor @amFOSS\nComputer Vision | Flutter | Android Developer",K.aw(a).Y.Q,C.eZ,2),new T.bL(t,10,t,t),new T.fb(C.P,t,t,R.U_(!1,!0,L.ce("Checkout my Curriculum Vitae",A.dB(t,t,C.b6,t,t,t,t,t,"OpenSans",t,t,16,t,t,t,t,!0,t,t,t,t,t,t),C.eZ,2),t,!0,t,t,t,t,t,t,t,t,new K.En(),t),t),new T.bL(t,30,t,t),T.lo(H.b([N.qX(new T.bL(20,20,U.hw("assets/github.png",t,t),t),L.ce("Github",t,t,t),new K.Eo()),N.qX(new T.bL(20,20,U.hw("assets/gitlab.png",t,t),t),L.ce("GitLab",t,t,t),new K.Ep()),N.qX(new T.bL(20,20,U.hw("assets/wordpress.jpg",t,t),t),L.ce("Wordpress",t,t,t),new K.Eq())],s),C.bE,C.li,C.aP),T.lo(H.b([N.qX(new T.bL(20,20,U.hw("assets/instagram.png",t,t),t),L.ce("Instagram",t,t,t),new K.Er()),N.qX(new T.bL(20,20,U.hw("assets/twitter.png",t,t),t),L.ce("Twitter",t,t,t),new K.Es()),N.qX(new T.bL(20,20,U.hw("assets/linkedin.png",t,t),t),L.ce("Linkedin",t,t,t),new K.Et())],s),C.bE,C.li,C.aP),new T.bL(t,120,t,t),new T.et(C.hD,t,t,L.ce("Made with Flutter",t,t,t),t)],s),C.bE,C.aO,C.aP)
+s=T.nn(H.b([new K.uo(U.hw("assets/avatar.jpg",t,t).c,100,t),new T.bL(t,20,t,t),L.ce("Yash Khare",t,t,4),new T.bL(t,20,t,t),L.ce("Member and mentor @amFOSS\nComputer Vision | Flutter | Android Developer",K.aw(a).Y.Q,C.eZ,2),new T.bL(t,10,t,t),new T.fb(C.P,t,t,R.U_(!1,!0,L.ce("Checkout my Curriculum Vitae",A.dB(t,t,C.b6,t,t,t,t,t,"OpenSans",t,t,16,t,t,t,t,!0,t,t,t,t,t,t),C.eZ,2),t,!0,t,t,t,t,t,t,t,t,new K.En(),t),t),new T.bL(t,30,t,t),T.lo(H.b([N.qX(new T.bL(20,20,U.hw("assets/github.png",t,t),t),L.ce("Github",t,t,t),new K.Eo()),N.qX(new T.bL(20,20,U.hw("assets/gitlab.png",t,t),t),L.ce("GitLab",t,t,t),new K.Ep()),N.qX(new T.bL(20,20,U.hw("assets/blog.png",t,t),t),L.ce("Blog",t,t,t),new K.Eq())],s),C.bE,C.li,C.aP),T.lo(H.b([N.qX(new T.bL(20,20,U.hw("assets/instagram.png",t,t),t),L.ce("Instagram",t,t,t),new K.Er()),N.qX(new T.bL(20,20,U.hw("assets/twitter.png",t,t),t),L.ce("Twitter",t,t,t),new K.Es()),N.qX(new T.bL(20,20,U.hw("assets/linkedin.png",t,t),t),L.ce("Linkedin",t,t,t),new K.Et())],s),C.bE,C.li,C.aP),new T.bL(t,120,t,t),new T.et(C.hD,t,t,L.ce("Made with Flutter",t,t,t),t)],s),C.bE,C.aO,C.aP)
 return new E.yC(!0,new T.fb(C.P,t,t,new T.cm(C.uu,s,t),t),t)}}
 K.En.prototype={
 $0:function(){return T.Ta("https://yashk2000.github.io/docs/cv.pdf")},
@@ -40832,7 +40832,7 @@ K.Ep.prototype={
 $0:function(){return C.S.fF(window,"https://gitlab.com/yashk2000","yashk2000")},
 $S:11}
 K.Eq.prototype={
-$0:function(){return C.S.fF(window,"https://yash2k.wordpress.com/","yash2k")},
+$0:function(){return C.S.fF(window,"https://yashk2000.github.io/blog/","yash2k")},
 $S:11}
 K.Er.prototype={
 $0:function(){return C.S.fF(window,"https://www.instagram.com/not_khare/","not_khare")},
