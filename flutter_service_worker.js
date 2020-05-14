@@ -16,7 +16,6 @@ const RESOURCES = {
 "assets/assets/github.png": "d22ee3727a7216019c3848df6eafa024",
 "assets/assets/computervisionn.jpg": "e84692154bd077a65b0b951d595231c8",
 "assets/assets/blog.png": "1269539dc4954cd7f8a8f75b2de5ac8c",
-"assets/assets/wordpress.jpg": "4c5c0daf4e65ed3c6b4aace9fbc7ffbb",
 "assets/assets/avatar.jpg": "da20d77ff86d7105a0b33f8fa44361bb",
 "assets/assets/works/badgemagic.png": "1068aac879d03cfb8ad0026513d08ffe",
 "assets/assets/works/vibe.jpg": "c1bcc9cba92987b3b11825e7fa789a44",
@@ -34,7 +33,7 @@ const RESOURCES = {
 "assets/assets/works/cms.png": "60fae13591d3805db2fcebd44088c203",
 "assets/assets/works/kiwix.png": "286e0afb2cfc047115f2293d9c1efba4",
 "assets/assets/gitlab.png": "d8dd9f3a3a1275356f9e1428b144e99f",
-"assets/AssetManifest.json": "efb0e5ac01610618a6db627a9fe867c1"
+"assets/AssetManifest.json": "863db71bd311fb84be18e1f374023904"
 };
 
 self.addEventListener('activate', function (event) {
