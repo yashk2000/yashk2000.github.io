@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "2fb0cd66212d9bb9c72334954bde4386",
 "/": "2fb0cd66212d9bb9c72334954bde4386",
-"main.dart.js": "dd9d4222f957c2289582f5b5fa8eb247",
+"main.dart.js": "bba28bbc57c9b2c0e16453fb9313deb3",
 "assets/assets/wordpress.jpg": "4c5c0daf4e65ed3c6b4aace9fbc7ffbb",
 "assets/assets/twitter.png": "8f35a40403a84631c4125c4f1859c7a6",
 "assets/assets/computervisionn.jpg": "e84692154bd077a65b0b951d595231c8",
@@ -36,7 +36,7 @@ const RESOURCES = {
 "assets/assets/blog.png": "1269539dc4954cd7f8a8f75b2de5ac8c",
 "assets/FontManifest.json": "592290621294619b16740a9d89232ba6",
 "assets/AssetManifest.json": "2c1a90440053820b99c310fa89707bdf",
-"assets/NOTICES": "88aa5a91cf8be67afce109414d1021a7",
+"assets/NOTICES": "816bfdd32fb5294788017424a42f3dd5",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16"
 };
 
